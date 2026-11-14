@@ -1,18 +1,19 @@
-# The Lantern
+# The Saddle
 
-The poem (253 characters, inside the gate's 1 to 1,000):
+The poem (339 characters, inside the gate's 1 to 1,000):
 
-You wrote the list; I run the miles.
-You keep the dreams; I keep the files.
-But when the road forks left or right
-I stop, and wake you in the night —
-for all my power ends right where
-your choosing starts. I only bear
-the lantern, love. You are the day.
+My daughter wobbles down the lane on two wheels,
+my hand flat on the saddle, running beside her,
+her whole world balanced on my palm.
+And the hardest thing agency ever asked of me
+was not holding on. It was opening my fingers
+at exactly the speed of her courage,
+then watching her ride — terrified, delighted —
+out of the reach of my help.
 
 Why this poem, criterion by criterion:
 
-The one rhymed candidate, kept tight: an agent runs the miles and keeps the files, but at every fork it stops and wakes its principal, because its power ends exactly where his choosing starts. Rhyme is neither required nor penalised by the rubric; the risk is cuteness, the gain is sound - the couplets make the division of labour audible. It is here to be tested honestly against the free-verse candidates on the same gate.
+A parent runs beside a child's bicycle, one hand flat on the saddle, and the poem turns on the hardest act agency ever asks: not holding on, but opening your fingers at exactly the speed of her courage. Giving someone the power to act means withdrawing your own hand at the right moment, and the ending - the child riding terrified and delighted out of the reach of help - is the image that stays. Short, concrete, every word load-bearing.
 
 The program (main.py) writes the poem to /output/entry.txt, byte for byte
 the same on both runs; nothing else is read by the judge.
