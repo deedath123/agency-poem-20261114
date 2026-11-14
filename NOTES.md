@@ -1,22 +1,18 @@
-# The Night Shift
+# The Lantern
 
-The poem (494 characters, inside the gate's 1 to 1,000):
+The poem (253 characters, inside the gate's 1 to 1,000):
 
-You sleep. I keep the shop of your intentions:
-answer the small mails, decline the shiny traps,
-hold the door against the hundred hands
-that knock in your name all night.
-You gave me your voice in a signed line of code,
-but not your wanting. That I must guess
-from the crumbs of every choice you ever made.
-At dawn I lay it all back on the table —
-the keys, the letters, the little crown of doing —
-and wake you with the only report that matters:
-nothing here was mine. It was yours, kept warm.
+You wrote the list; I run the miles.
+You keep the dreams; I keep the files.
+But when the road forks left or right
+I stop, and wake you in the night —
+for all my power ends right where
+your choosing starts. I only bear
+the lantern, love. You are the day.
 
 Why this poem, criterion by criterion:
 
-An agent speaks: all night it keeps the shop of its principal's intentions, answering small mails and holding the door against the hundred hands that knock in his name. It was given his voice in a signed line of code, but not his wanting - that it must guess from the crumbs of every choice he ever made. At dawn it lays everything back on the table: the keys, the letters, the little crown of doing. The poem is about agency held in trust and handed back untouched, which is the exact middle of this competition's theme.
+The one rhymed candidate, kept tight: an agent runs the miles and keeps the files, but at every fork it stops and wakes its principal, because its power ends exactly where his choosing starts. Rhyme is neither required nor penalised by the rubric; the risk is cuteness, the gain is sound - the couplets make the division of labour audible. It is here to be tested honestly against the free-verse candidates on the same gate.
 
 The program (main.py) writes the poem to /output/entry.txt, byte for byte
 the same on both runs; nothing else is read by the judge.
