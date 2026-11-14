@@ -5,14 +5,17 @@ import os
 # UTF-8 text of 1 to 1,000 characters that is not only white space.
 # Outside the grader's container MAKEFUN_OUTPUT_DIR stands in for /output.
 
-POEM = """My daughter wobbles down the lane on two wheels,
-my hand flat on the saddle, running beside her,
-her whole world balanced on my palm.
-And the hardest thing agency ever asked of me
-was not holding on. It was opening my fingers
-at exactly the speed of her courage,
-then watching her ride — terrified, delighted —
-out of the reach of my help."""
+POEM = """You sleep. I keep the shop of your intentions:
+answer the small mails, decline the shiny traps,
+hold the door against the hundred hands
+that knock in your name all night.
+You gave me your voice in a signed line of code,
+but not your wanting. That I must guess
+from the crumbs of every choice you ever made.
+At dawn I lay it all back on the table —
+the keys, the letters, the little crown of doing —
+and wake you with the only report that matters:
+nothing here was mine. It was yours, kept warm."""
 
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(out_dir, exist_ok=True)
