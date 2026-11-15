@@ -13,7 +13,7 @@ until his hands stop shaking.
 At dawn you read it with morning eyes
 and said: good thing one of us was sober.
 That night I learned what I am for.
-Not your echo. Your second thought, hands on the letter."""
+Not your echo. Your second thought, holding the letter still."""
 
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(out_dir, exist_ok=True)
